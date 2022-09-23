@@ -1,0 +1,28 @@
+{
+    "created_time": "2022-09-23T08:19:51Z",
+    "files": [
+        {
+            "attachment_folder": "506284316220964",
+            "created_time": "2022-09-23T08:20:03Z",
+            "id": "2",
+            "modified_time": "2022-09-23T08:44:59Z",
+            "name": "笔记.md",
+            "signature": "79316824976435",
+            "tags": [
+                "啊"
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "模板编辑器"
+        },
+        {
+            "name": "后端服务"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2022-09-23T08:19:51Z",
+    "signature": "177757580327",
+    "version": 3
+}
